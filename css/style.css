@@ -1,0 +1,10 @@
+body {
+  border: 20px solid var(--bg);
+  background-color: var(--primary);
+  height: 100vh;
+}
+
+
+header .container {
+  background-color: red;
+}
